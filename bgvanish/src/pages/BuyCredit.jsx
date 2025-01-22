@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useContext } from 'react';
 import { assets, plans } from '../assets/assets'
 import { AppContext } from '../context/AppContext'
 import { useNavigate } from 'react-router-dom'
@@ -44,7 +44,7 @@ const BuyCredit = () => {
 
 
         }
-        const rzp = new Window.Razorpay(options)
+        const rzp = new window.Razorpay(options)
         rzp.open()
 
     }
