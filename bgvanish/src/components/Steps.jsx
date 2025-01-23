@@ -13,7 +13,7 @@ const Steps = () => {
             <img className='max-w-9 ' src={assets.upload_icon} alt="upload" />
             <div>
                 <p className='text-xl font-medium'>Upload  image</p>
-                <p className='text-sm  text-neutral-500 mt-1'>This is a demo text , will replace it later . <br /> This is Demo</p>
+                <p className='text-sm  text-neutral-500 mt-1'>Easily Upload Image , from your device . <br /> Use clear Image</p>
             </div>
         </div>
 
@@ -21,7 +21,7 @@ const Steps = () => {
             <img className='max-w-9 ' src={assets.remove_bg_icon} alt="upload" />
             <div>
                 <p className='text-xl font-medium'>Remove Background </p>
-                <p className='text-sm  text-neutral-500 mt-1'>This is a demo text , will replace it later . <br /> This is Demo</p>
+                <p className='text-sm  text-neutral-500 mt-1'>Easily Remove Background From Your Image . <br /> Use clear Image</p>
             </div>
         </div>
 
@@ -29,7 +29,7 @@ const Steps = () => {
             <img className='max-w-9 ' src={assets.download_icon} alt="upload" />
             <div>
                 <p className='text-xl font-medium'>Download image</p>
-                <p className='text-sm  text-neutral-500 mt-1'>This is a demo text , will replace it later . <br /> This is Demo</p>
+                <p className='text-sm  text-neutral-500 mt-1'>Click On Download Button To Download Your Image . <br /> Remove clear Image </p>
             </div>
         </div>
 

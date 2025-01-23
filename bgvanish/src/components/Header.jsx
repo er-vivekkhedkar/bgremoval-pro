@@ -16,7 +16,7 @@ const Header = () => {
             Remove the 
             <br className='max-md:hidden' /><span className='bg-gradient-to-r from-violet-600 to bg-fuchsia-500 bg-clip-text text-transparent '> background </span>from <br className='max-md:hidden' /> images for free.
             </h1>
-        <p className='my-6 text-[15px] text-gray-500'>Lorem ipaum is simply dummy text and typesetting industry types settings. <br className='max-sm:hidden' /> Lorem Ipsum has been the industry standards dummy text ever.</p>
+        <p className='my-6 text-[15px] text-gray-500'>Bg.RemoverPro is an efficient and user friendly background remover tool . <br className='max-sm:hidden' /> It is a free and open source tool that can remove the background from images just one click.</p>
         <div>
             <input onChange={e => removeBg(e.target.files[0])} type="file"accept="image/*" id="upload1" hidden />
             <label className='inline-flex gap-3 px-8 py-3.5 rounded-full cursor-pointer bg-gradient-to-r from-violet-600 to-fuchsia-500 m-auto hover:scale-105 transition-all duration-700' htmlFor="upload1">
