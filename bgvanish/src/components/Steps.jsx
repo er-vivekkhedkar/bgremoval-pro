@@ -29,7 +29,7 @@ const Steps = () => {
             <img className='max-w-9 ' src={assets.download_icon} alt="upload" />
             <div>
                 <p className='text-xl font-medium'>Download image</p>
-                <p className='text-sm  text-neutral-500 mt-1'>Click On Download Button To Download Your Image . <br /> Remove clear Image </p>
+                <p className='text-sm  text-neutral-500 mt-1'>Click On Download Button To Download Your Image . <br /> Get clear Image bg remove image </p>
             </div>
         </div>
 
